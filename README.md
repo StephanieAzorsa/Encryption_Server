@@ -3,16 +3,15 @@
 
   <h1 align="center">🔐 Argus Encryption Solver</h1>
 
+  <text>Este proyecto implementa el backend para la solución de desencriptar un mensaje siguiendo un proceso específico de encriptación explicado por Argus. 
+El backend está desarrollado en Java con Spring Boot.
+  </text>
   <p align="center">
     <a href="">Reportar Bug</a>
     |
     <a href="">Solicitar Feature</a>
   </p>
 </div></br>
-
-## 📌 Acerca del repositorio
-Este proyecto implementa el backend para la solución de desencriptar un mensaje siguiendo un proceso específico de encriptación explicado por Argus. 
-El backend está desarrollado en **Java** con **Spring Boot**.
 
 ## 🚀 Descripción del Proceso de Encriptación
 

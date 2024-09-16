@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Ignorar archivos del entorno local de IntelliJ
+.idea/
+*.iml
+# Ignorar archivos generados por Maven
+target/
+# Ignorar propiedades específicas del entorno
+*.properties
+# Ignorar otros archivos del sistema
+*.log
+.DS_Store
